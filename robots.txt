@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://subink.github.io/al-folio/sitemap.xml
+Sitemap: https://vyshnavkp.github.io/al-folio/sitemap.xml
